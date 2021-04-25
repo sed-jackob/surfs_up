@@ -4,7 +4,7 @@ Data Analytics Boot Camp - Module 9
 ---
 
 ## Overview of the analysis
-The purpose of this analysis is to get more insights on the weather conditions in June and ***December*** in ***Oahu***. This information will play a major role in determining if the surf and ice cream shop business is sustainable year-round.
+The purpose of this analysis is to get more insights on the weather conditions in ***June*** and ***December*** in ***Oahu***. This information will play a major role in determining if the surf and ice cream shop business is sustainable year-round.
 
 ## Results
 Based on the analysis, below are three major differences between ***June*** and ***December's*** temperatures:
